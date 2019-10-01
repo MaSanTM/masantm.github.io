@@ -2,3 +2,9 @@ html *
 {
   font-family: 'Courier New', Courier, monospace !important;
 }
+
+P.body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
