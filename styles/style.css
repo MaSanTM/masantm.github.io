@@ -7,6 +7,10 @@ html *
   font-family: 'Courier New', Courier, monospace;
   font: 100%
 }
+p
+{
+  padding-top: 2cm;
+}
 body{
   width: 50%;
   margin: 0 auto;
