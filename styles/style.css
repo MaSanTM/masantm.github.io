@@ -1,5 +1,6 @@
 html *
 {
+	
   background-color: gray;
 	margin:0;
 	padding: 0;
@@ -13,6 +14,6 @@ body{
 }
 h1
 {
-  background: black;
+  background-color: black;
   color: white;
 }
