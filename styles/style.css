@@ -7,9 +7,9 @@ html
   font: 100%
 }
 body{
-  width: 50%;
-  margin: 0 auto;
-  background: white;
-  border-bottom: black;
-  paddin: 1em 50px;
+  	width: 50%;
+  	margin: 0 auto;
+ 	 background: white;
+ 	 border-bottom: black;
+ 	 paddin: 1em 50px;
 }
