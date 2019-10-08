@@ -1,4 +1,4 @@
-html *
+html
 {
   background-color: gray;
 	margin:0;
@@ -9,5 +9,7 @@ html *
 body{
   width: 50%;
   margin: 0 auto;
-  background-color: white;
+  background: white;
+  border-bottom: black;
+  paddin: 1em 50px;
 }
