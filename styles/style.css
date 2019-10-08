@@ -1,6 +1,18 @@
 html *
 {
-  font: 100%;
-  font-family: 'Courier New', Courier, monospace !important;
-  font-size: 2em;
+  background-color: gray;
+	margin:0;
+	padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  font: 100%
+}
+body{
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+}
+h1
+{
+  background: black;
+  color: white;
 }
