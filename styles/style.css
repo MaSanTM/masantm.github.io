@@ -6,7 +6,6 @@ html
   font-family: 'Courier New', Courier, monospace;
   font: 100%
 }
-<div>
 	body{
   		width: 50%;
   		margin: 0 auto;
@@ -14,4 +13,3 @@ html
  	 	padding: 1em 50px;
 		border-radius: 25px;
 	    }
-</div>
